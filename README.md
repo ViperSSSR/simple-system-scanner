@@ -1,2 +1,19 @@
-# simple-system-scanner
-A lightweight Python tool to scan and display file information in a directory.
+# Simple System Scanner
+
+一个轻量级的 Python 工具，用于扫描目录并清晰地展示文件和文件夹的基本信息（名称、类型、大小、修改时间）。
+
+## 功能特性
+
+- 扫描指定目录，识别文件和文件夹。
+- 自动将文件大小转换为易读的单位（B, KB, MB, GB）。
+- 以整洁的表格形式输出结果。
+- 提供简单的配置选项（通过 `config.json`）。
+- 可作为独立脚本运行，也可作为模块导入到其他项目中。
+
+## 快速开始
+
+### 前提条件
+- 系统已安装 Python 3.6 或更高版本。
+
+### 使用步骤
+1. 将本项目下载到本地，或克隆仓库：
