@@ -1,0 +1,10 @@
+{
+  "scanner_settings": {
+    "default_directory": ".",
+    "max_scan_depth": 1,
+    "show_hidden_files": false,
+    "output_format": "table"
+  },
+  "author": "ViperSSSR",
+  "purpose": "LSPosed verification project - A practical file system tool."
+}
